@@ -1,0 +1,13 @@
+.todo-app{
+	max-width: 620px;
+	margin: 0 auto;
+}
+
+.top-panel{
+	margin:  1rem 0;
+	justify-content: space-between;
+}
+
+.main{
+	background: #f5f3f3;
+}
